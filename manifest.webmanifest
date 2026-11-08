@@ -1,0 +1,17 @@
+{
+  "name": "Solo Brothas – RPG Đời Thực",
+  "short_name": "Solo Brothas",
+  "description": "Game hóa thói quen cho 2 anh em: nhiệm vụ, kiểm duyệt chéo, sổ nợ phạt, quỹ Bách Hóa Xanh và đấu trường PvP.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1120",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
