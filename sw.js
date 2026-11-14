@@ -1,5 +1,5 @@
 /* Solo Brothas – Service Worker (cache tài nguyên tĩnh, chạy offline cơ bản) */
-const CACHE = 'solo-brothas-v1';
+const CACHE = 'solo-brothas-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest', './favicon.svg', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', (event) => {
